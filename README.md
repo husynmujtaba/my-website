@@ -4,4 +4,4 @@ This is a reality
 
 Updating Readme remotely
 
-Updating Readme Locally
+Updating Readme Locally, then remotely.
