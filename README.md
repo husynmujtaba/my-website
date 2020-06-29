@@ -2,6 +2,4 @@
 
 This is a reality
 
-Updating Readme remotely
-
-Updating Readme Locally, then remotely.
+Updates made on master on github before rebase
