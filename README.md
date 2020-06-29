@@ -2,6 +2,6 @@
 
 This is a reality
 
-making a changge
-
 Updating Readme remotely
+
+Updating Readme Locally
